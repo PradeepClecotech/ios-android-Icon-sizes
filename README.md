@@ -1,9 +1,11 @@
 # Standerd sizes for iOS & Android
+---
+
+Image Size and Resolution
+suppose you have a standard resolution (**@1x**) image that's `100px × 100px`. The **@2x** version of this image would be `200px × 200px`, and the **@3x** version would be `300px × 300px`.
 
 ---
-**Image Size and Resolution**
-For example, suppose you have a standard resolution (**@1x**) image that's `100px × 100px`. The **@2x** version of this image would be `200px × 200px`, and the **@3x** version would be `300px × 300px`.
----
+
 ### iOS 
 | Type | Size | specifications |
 | ------------ | ------------ | ------------- |
